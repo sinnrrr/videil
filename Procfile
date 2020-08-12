@@ -1,1 +1,1 @@
-web: code-server
+web: ~/.local/bin/code-server
