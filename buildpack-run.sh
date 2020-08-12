@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello world"
+curl -fsSL https://code-server.dev/install.sh | sh
