@@ -1,1 +1,1 @@
-web: ~/server/bin/code-server && echo $PORT
+web: ~/server/bin/code-server --bind-addr=0.0.0.0:$PORT
