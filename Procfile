@@ -1,1 +1,1 @@
-web: ~/server/code-server && echo $PORT
+web: ~/server/code-server && echo $PORT && echo $HOST
