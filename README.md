@@ -9,10 +9,6 @@ Create your app, enter to its folder, and clone the [videil](https://github.com/
 ```
 git clone https://github.com/sinnrrr/videil .
 ```
-When the app was cloned, run this command to add and commit all files to git:
-```
-git commit -am "init"
-```
 Then, set the buildpack of the app:
 ```
 heroku buildpacks:add https://github.com/weibeld/heroku-buildpack-run
