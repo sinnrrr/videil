@@ -7,7 +7,7 @@
 ## Deploy it by your own hands
 Create your app, enter to its folder, and clone the [videil](https://github.com/sinnrrr/videil) repository:
 ```
-git clone https://github.com/sinnrrr/videil
+git clone https://github.com/sinnrrr/videil .
 ```
 When the app was cloned, run this command to add and commit all files to git:
 ```
