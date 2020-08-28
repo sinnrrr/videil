@@ -1,5 +1,5 @@
 
-# Videil - Heroku code server
+# Videil - code server for Heroku
 **Videil** (*vim-ideil*) - *heroku-ready* config for hosting [code-server](https://github.com/cdr/code-server) on your *Heroku* app.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sinnrrr/videil/tree/master)
