@@ -2,10 +2,13 @@
   "name": "Videil",
   "description": "The easiest way to deploy code-server to Heroku!",
   "repository": "https://github.com/sinnrrr/videil",
-  "keywords": ["shell"],
+  "keywords": [
+    "shell",
+    "run"
+  ],
   "buildpacks": [
     {
       "url": "https://github.com/weibeld/heroku-buildpack-run"
-    },
+    }
   ]
 }
