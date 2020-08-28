@@ -8,7 +8,7 @@ Create your app, enter to its folder, and clone the [videil](https://github.com/
 ```
 git clone https://github.com/sinnrrr/videil .
 ```
-Then, set the buildpack of the app:
+Then, set the [buildpack](https://github.com/weibeld/heroku-buildpack-run) of the app:
 ```
 heroku buildpacks:add https://github.com/weibeld/heroku-buildpack-run
 ```
