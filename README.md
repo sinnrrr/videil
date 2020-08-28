@@ -1,9 +1,7 @@
 
 # Videil - heroku code server
 **Videil** (*vim-ideil*) - *heroku-ready* config for hosting [code-server](https://github.com/cdr/code-server) on your *Heroku* app.
-```md
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-```
 ## Deploy it by your own hands
 Create your app, enter to its folder, and clone the [videil](https://github.com/sinnrrr/videil) repository:
 ```
