@@ -12,6 +12,10 @@
     }
   ],
   "env": {
+    "PASSWORD": {
+        "descrption": "What password to use to access to code-server",
+        "generator": "secret"
+    },
     "BUILDPACK_RUN": {
       "description": "Command to run when deployed",
       "value": "./script.sh"
