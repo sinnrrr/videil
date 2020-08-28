@@ -10,5 +10,11 @@
     {
       "url": "https://github.com/weibeld/heroku-buildpack-run"
     }
-  ]
+  ],
+  "env": {
+    "BUILDPACK_RUN": {
+      "description": "Command to run when deployed",
+      "value": "./script.sh"
+    }
+  }
 }
