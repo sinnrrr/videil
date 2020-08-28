@@ -4,12 +4,7 @@
 ```md
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ```
-## Deploy by your own hands
-Create your app, enter to its folder and simply run this:
-```
-heroku git:clone -a videil .
-```
-## Deploy it even more by your own hands
+## Deploy it by your own hands
 Create your app, enter to its folder, and clone the [videil](https://github.com/sinnrrr/videil) repository:
 ```
 git clone https://github.com/sinnrrr/videil
