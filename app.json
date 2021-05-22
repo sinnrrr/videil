@@ -14,7 +14,7 @@
   "env": {
     "PASSWORD": {
         "descrption": "What password to use to access to code-server",
-        "value": "123123123"
+        "value": "123asd123"
     },
     "BUILDPACK_RUN": {
       "description": "Command to run when deployed",
