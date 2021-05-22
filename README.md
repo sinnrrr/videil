@@ -13,6 +13,7 @@ The [demo link](https://videil.herokuapp.com) can be found in the description of
 * [Zeet](https://zeet.co)
 
 ## Deploy it by your own hands
+### Heroku
 Create your heroku app, enter to its folder, and clone the [videil](https://github.com/sinnrrr/videil) repository:
 ```
 git clone https://github.com/sinnrrr/videil .
