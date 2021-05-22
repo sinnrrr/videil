@@ -1,5 +1,5 @@
-# Videil - code server for Heroku
-**Videil** (*vim-ideil*) - *PaaS-ready* config for hosting [code-server](https://github.com/cdr/code-server) on your favorite platform
+# Videil - code server for PaaS
+**Videil** (*vim-ideil*) - config for hosting [code-server](https://github.com/cdr/code-server) on your favorite platform
 
 ## One-click deployment
 [<img src="https://www.herokucdn.com/deploy/button.svg" height="32" alt="Deploy to Heroku">](https://heroku.com/deploy?template=https://github.com/sinnrrr/videil/tree/master)
