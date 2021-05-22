@@ -5,10 +5,10 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sinnrrr/videil/tree/master)
 [![Deploy](https://deploy.zeet.co/videil.svg)](https://deploy.zeet.co/?url=https://github.com/sinnrrr/videil)
 
-### Demo
-The demo link can be found in the description of this repo (password: 123asd123)
+## Demo
+The [demo link](https://videil.herokuapp.com) can be found in the description of this repo (password: 123asd123)
 
-### Supported platforms
+## Supported platforms
 * [Heroku](https://heroku.com)
 * [Zeet](https://zeet.co)
 
